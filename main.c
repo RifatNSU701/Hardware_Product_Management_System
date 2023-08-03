@@ -217,7 +217,7 @@ void add_item() // Add any product,,
 				/*
 				fscanf reads every data stored in the file
 				if entered staffID already exist then jumps to
-				position I declared inside if(sfile!=NULL) at top
+				position I declared inside if(sfile!=NULL) at top of
 				*/
 				if(ID == st.productid)
 				{
@@ -233,7 +233,7 @@ void add_item() // Add any product,,
 			scanf("%i",&st.productid);
 		}
 
-	//add product name
+	//add product name section
 		do
 		{
 
@@ -260,7 +260,7 @@ void add_item() // Add any product,,
 
 
 			}
-		}while(!valid);	//while end here
+		}while(!valid);	//while ends here
 
 
 		//Product Company Name
