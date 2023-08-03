@@ -408,7 +408,7 @@ void search_item() //Menu 3,, Search Item Function
 
 }
 
-void read_item()   //Read or see the products details
+void read_item()   //Read or view the products details
 {
 	FILE *f;
 	int i, q;
