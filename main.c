@@ -119,7 +119,7 @@ int a=0,i=0;
 	}
 	else
 	{
-		printf("\n        SORRY !!!!  LOGIN IS UNSUCESSFUL");
+		printf("\n        SORRY YOU HAVE ENTERED WRONG KEY!!!!  LOGIN IS UNSUCESSFUL");
 		a++;
 
 		getch();//holds the screen
@@ -140,7 +140,7 @@ int a=0,i=0;
 
 
 
-void menu(void) //Main Menu Function
+void menu(void) //Main Menu Function(Code)
 {
 	int choice;
 	system("cls");
@@ -374,7 +374,7 @@ void deleteproduct(void)   // Delete an Item
 		menu();
 }
 
-void search_item() //Menu 3,, Search Item Function
+void search_item() //Menu 3,, Search Item Function ( Code)
 {
 	char target[40];
 	int found=0;
@@ -617,4 +617,4 @@ void edit_item()    // Edit or change any Item
 	}
 	menu();
 }
-
+//END OF PROGRAM
