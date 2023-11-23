@@ -75,7 +75,7 @@ void wel_come(void)
 	printf("|\t\t\t\t\t\t\t\t\t\t\t\t\t\t|\n");
 	printf("|\t\t\t\t\t\t\t\t\t\t\t\t\t\t|\n");
 	printf("|\t\t\t\t\t\t\t\t\t\t\t\t\t\t|\n");
-	printf("|Press any key to continue.........\t\t\t\t\t\t\t\t\t\t|\n");
+	printf("|Press any key to continue.........\t\t\t\t\t\t\t\t\t\t|\n"); // D
 
 	printf("---------------------------------------------------------------------------------------------------------\n");
 
