@@ -1,7 +1,5 @@
 /**
 Name : Md Rifat Khan Rabbi
-ID : 2*****42
-Section : **
 Course : CS***
 Project : Hardware Product Management System
 */
