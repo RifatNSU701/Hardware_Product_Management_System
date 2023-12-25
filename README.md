@@ -36,4 +36,5 @@ Error Handling:
 While maintaining a user-friendly experience, the program incorporates robust error handling mechanisms to address potential issues and provide informative messages to the user.
 
 Overall, this inventory management system is crafted to adhere to professional coding standards, emphasizing security, reliability, and user experience.
+Approved**
 
