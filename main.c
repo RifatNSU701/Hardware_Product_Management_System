@@ -61,7 +61,7 @@ void wel_come(void)
 	printf("|\t\t\t\t\t\t\t\t\t\t\t\t\t\t|\n");
 	printf("|\t\t\t\t\t\t\t\t\t\t\t\t\t\t|\n");
 	printf("|\t\t\t\t==================================\t\t\t\t\t\t|\n");
-	printf("|\t\t\t\t|\t     WELCOME TO \t |\t\t\t\t\t\t|\n");
+	printf("|\t\t\t\t|\t     *WELCOME TO \t |\t\t\t\t\t\t|\n");
 	printf("|\t\t\t\t|  Hardware PRODUCT MGMT SYSTEM\t |\t\t\t\t\t\t|\n");
 	printf("|\t\t\t\t==================================\t\t\t\t\t\t|\n");
 	printf("|\t\t\t\t            Address      \t\t\t\t\t\t\t|\n");
