@@ -1,6 +1,6 @@
 /**
 Name : Md Rifat Khan Rabbi
-Course : CS***
+Course : CS**
 Project : Hardware Product Management System
 */
 #include<stdio.h>
