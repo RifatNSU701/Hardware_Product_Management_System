@@ -6,7 +6,7 @@ This C-based inventory management system is designed to facilitate essential ope
 Key Features:
 
 Authentication Mechanism:
-The system begins with a secure authentication process, requiring users to input a valid username ("rifat") and password ("***") to gain access.
+The system begins with a secure authentication process, requiring users to input a valid username ("***") and password ("***") to gain access.
 
 Main Menu:
 Users are presented with a well-structured main menu offering clear options:
