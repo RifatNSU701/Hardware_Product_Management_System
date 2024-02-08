@@ -1,6 +1,7 @@
 # Hardware_Product_Management_System
 #Created By Rifat Khan
 # C 
+
 This C-based inventory management system is designed to facilitate essential operations, including adding, deleting, searching, reading, and editing product details. Employing robust file handling mechanisms, the program ensures persistent storage and retrieval of product information.
 
 Key Features:
