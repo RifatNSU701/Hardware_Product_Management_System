@@ -1,7 +1,4 @@
-/**
-Name : Md Rifat Khan Rabbi
-Course : CS**
-Project : Hardware Product Management System
+/*@author - Rifat K
 */
 #include<stdio.h>
 #include<conio.h>
