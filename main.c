@@ -1,4 +1,5 @@
-/*@author - Rifat K
+/*
+	@author - Rifat K
 */
 #include<stdio.h>
 #include<conio.h>
