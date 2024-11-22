@@ -1,0 +1,2 @@
+Product: PSU, Quantity: 4, Date: 2024-11-22 19:37:51
+Product: Ram, Quantity: 15, Date: 2024-11-22 19:54:25

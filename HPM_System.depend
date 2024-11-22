@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1732283570 source:e:\nsu\project\c project\hpm_system\hpm_system\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
