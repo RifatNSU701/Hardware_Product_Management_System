@@ -69,7 +69,7 @@ void printInvoice(const char *productName, int quantity, float totalCost);
 void main(void)
 
 {
-    wel_come(); //call for welcome screen function
+    wel_come(); 
     int choice;
 
     while (1)
@@ -863,3 +863,4 @@ void accountStatus()
     getch();
     menu();
 }
+
