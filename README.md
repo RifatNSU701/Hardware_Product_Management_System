@@ -1,4 +1,4 @@
-# Hardware_Product_Management_System
+# HPMS
 #Created By Rifat Khan
 # C 
 
