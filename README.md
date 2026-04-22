@@ -9,7 +9,7 @@ Key Features:
 Authentication Mechanism:
 The system begins with a secure authentication process, requiring users to input a valid username ("***") and password ("***") to gain access.
 
-Main Menu:
+Main Menu: 
 Users are presented with a well-structured main menu offering clear options:
 
 Add Products: Enables the addition of new products with details such as name, company, price, product ID, and quantity.
